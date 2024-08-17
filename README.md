@@ -5,3 +5,4 @@
 * [Use Modern C++ to Access the Windows Registry](https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/may/c-use-modern-c-to-access-the-windows-registry)
 * [How to set a Windows registry value with PowerShell](https://www.advancedinstaller.com/set-windows-registry-value-with-powershell.html)
 * [Powershell](https://habr.com/ru/companies/ruvds/articles/487876/)
+* [Python win32 docs](https://timgolden.me.uk/pywin32-docs/contents.html)
