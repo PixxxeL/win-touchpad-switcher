@@ -24,3 +24,9 @@ $cert = New-SelfSignedCertificate @params
 Get-Childitem cert:\CurrentUser\My -codesigning
 Set-AuthenticodeSignature "FileName" @(Get-ChildItem cert:\CurrentUser\My -codesigning)[0]
 ```
+
+## Where placed
+
+* `C:\Users\%UserName%\Documents\WindowsPowerShell\Modules`
+* `C:\Program Files\WindowsPowerShell\Modules`
+* `C:\Windows\System32\WindowsPowerShell\v1.0\Modules`
